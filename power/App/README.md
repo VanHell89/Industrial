@@ -17,6 +17,7 @@ Mappa rapida delle sezioni prodotto con i percorsi standardizzati:
 | Analytics & FIRE | `App/Analytics/docs/` | `App/Analytics/modifiche/` | `App/Analytics/problemi/` |
 | Settings | `App/Settings/docs/` | `App/Settings/modifiche/` | `App/Settings/problemi/` |
 | Manuale d’uso | `App/Manuale/docs/` | `App/Manuale/modifiche/` | `App/Manuale/problemi/` |
+| Immobiliare | `App/Immobiliare/docs/` | `App/Immobiliare/modifiche/` | `App/Immobiliare/problemi/` |
 
 Note rapide:
 - I file esistenti restano nelle rispettive cartelle (vedi README root per link puntuali).

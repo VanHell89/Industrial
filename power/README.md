@@ -26,6 +26,7 @@ Indice rapido dei documenti chiave del progetto.
   - Modifica: `App/Transaction/modifiche/categoria-asset.md`
 - Analytics/FIRE: `App/Analytics/modifiche/fire-cashflow-progress.md`
 - Manuale d’uso: `App/Manuale/docs/manuale-uso.md`
+- Immobiliare: pagina nuova in bozze — `App/Immobiliare/docs/pagina-immobiliare.md`
 
 ## Convenzioni
 - Ogni nuova sezione va sotto `docs/<area>/` con nome descrittivo.
