@@ -20,6 +20,7 @@ Sezioni disponibili:
 - Allocation — `App/Allocation/{docs,modifiche}/`
 - Cedolare — `App/Cedolare/{docs,modifiche}/`
 - PAC — `App/PAC/{docs,modifiche}/`
+- Transaction — `App/Transaction/{docs,modifiche}/`
 - Analytics — `App/Analytics/{docs,modifiche}/`
 - Settings — `App/Settings/{docs,modifiche}/`
 
