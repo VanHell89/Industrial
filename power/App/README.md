@@ -19,6 +19,7 @@ Mappa rapida delle sezioni prodotto con i percorsi standardizzati:
 | Manuale d’uso | `App/Manuale/docs/` | `App/Manuale/modifiche/` | `App/Manuale/problemi/` |
 | Immobiliare | `App/Immobiliare/docs/` | `App/Immobiliare/modifiche/` | `App/Immobiliare/problemi/` |
 | Protezione | `App/Protezione/docs/` | `App/Protezione/modifiche/` | `App/Protezione/problemi/` |
+| Beni Fisici | `App/BeniFisici/docs/` | `App/BeniFisici/modifiche/` | `App/BeniFisici/problemi/` |
 
 Note rapide:
 - I file esistenti restano nelle rispettive cartelle (vedi README root per link puntuali).

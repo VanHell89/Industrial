@@ -29,6 +29,7 @@ Indice rapido dei documenti chiave del progetto.
 - Immobiliare: pagina nuova in bozze — `App/Immobiliare/docs/pagina-immobiliare.md`
 - PGRF (ex PAC): `App/PAC/docs/piano-gestione-risorse-finanziarie.md`
 - Protezione: rischi & coperture — `App/Protezione/docs/pagina-protezione.md`
+- Beni Fisici: asset reali non immobiliari — `App/BeniFisici/docs/pagina-beni-fisici.md`
 
 ## Convenzioni
 - Ogni nuova sezione va sotto `docs/<area>/` con nome descrittivo.
