@@ -1,1 +1,0 @@
-Sei proprio un Vanello
