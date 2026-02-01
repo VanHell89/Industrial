@@ -18,6 +18,7 @@ Mappa rapida delle sezioni prodotto con i percorsi standardizzati:
 | Settings | `App/Settings/docs/` | `App/Settings/modifiche/` | `App/Settings/problemi/` |
 | Manuale d’uso | `App/Manuale/docs/` | `App/Manuale/modifiche/` | `App/Manuale/problemi/` |
 | Immobiliare | `App/Immobiliare/docs/` | `App/Immobiliare/modifiche/` | `App/Immobiliare/problemi/` |
+| Protezione | `App/Protezione/docs/` | `App/Protezione/modifiche/` | `App/Protezione/problemi/` |
 
 Note rapide:
 - I file esistenti restano nelle rispettive cartelle (vedi README root per link puntuali).
